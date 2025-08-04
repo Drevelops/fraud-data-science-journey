@@ -1,0 +1,20 @@
+# Datasets
+data/
+*.csv
+*.json
+*.xlsx
+*.parquet
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
