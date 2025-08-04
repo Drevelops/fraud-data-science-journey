@@ -1,5 +1,10 @@
 # Datasets
-data/
+# Ignore data files but track the folder structure
+data/*.csv
+data/*.json
+data/*.xlsx
+data/*.parquet
+data/*.zip
 *.csv
 *.json
 *.xlsx
